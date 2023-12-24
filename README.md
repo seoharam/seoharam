@@ -58,15 +58,15 @@ I'm graduate student of ⚓ [Korea Maritime-Ocean University](https://www.kmou.a
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=seoharam&show_icons=true&count_private=true&hide_border=true" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=seoharam&show_icons=true&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=사용자명)&hide=stars,contribs&count_private=true&show_icons=true&&theme=dark" align="left" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoharam&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoharam&hide_border=true&count_private=true&layout=compact&&theme=dark" align="left" />
 
-</td></tr></table>  
+</td></tr>
 
 <br/>  
 
