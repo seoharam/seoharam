@@ -26,7 +26,7 @@ I'm graduate student of ⚓ [Korea Maritime-Ocean University](https://www.kmou.a
 - 📊 I want to be a data scientist in the marine field
 
 
-- 🤝🏻 I've been collaborate with Samsung Heavy Industry + LS Cable & System
+- 🤝🏻 I've been collaborate with Samsung Heavy Industry, LS Cable & System
 
 
 - 📷 I love photography and video shooting
