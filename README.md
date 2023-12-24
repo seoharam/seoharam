@@ -5,7 +5,6 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 
-
   
 ### Nice to see you here !  
 I'm graduate student of ⚓ [Korea Maritime-Ocean University](https://www.kmou.ac.kr/kmou/main.do) in 🇰🇷.  
@@ -26,7 +25,7 @@ I'm graduate student of ⚓ [Korea Maritime-Ocean University](https://www.kmou.a
 - 📊 I want to be a data scientist in the marine field
 
 
-- 🤝🏻 I've collaborated with Samsung Heavy Industry, LS Cable & System
+- 🤝🏻 I've collaborated with [Samsung Heavy Industry](http://www.samsungshi.com/) / [LS Cable & System](https://www.lscns.co.kr/)
 
 
 - 📷 I love photography and video shooting
