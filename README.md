@@ -23,10 +23,13 @@ I'm graduate student of ⚓ [Korea Maritime-Ocean University](https://www.kmou.a
 - 🔏 I’m currently working on [Private Repository](https://github.com/seoharam/LscnsProject)  
   
 
-- 📚 I want to be a data scientist in the marine field
+- 📊 I want to be a data scientist in the marine field
 
 
 - 🤝🏻 I've been collaborate with samsung heavy industry / LS cable & system
+
+
+- 📷 I love photography and video shooting
 
 
 </td><td valign="top" width="50%">
