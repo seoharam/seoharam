@@ -1,4 +1,4 @@
-# <div align="center">Hello 👋, I'm Haram Seo</div>  
+# <div align="center">Hello 👋🏻, I'm Haram Seo</div>  
   
 
 <a href="https://github.com/seoharam" target="_blank">
@@ -8,7 +8,7 @@
 
   
 ### Nice to see you here !  
-I'm graduate student of ⚓ Korea Maritime-Ocean University in 🇰🇷.  
+I'm graduate student of ⚓ [Korea Maritime-Ocean University](https://www.kmou.ac.kr/kmou/main.do) in 🇰🇷.  
 
   
 <br/>  
@@ -17,7 +17,7 @@ I'm graduate student of ⚓ Korea Maritime-Ocean University in 🇰🇷.
 ## Introduction  
 <tr><td valign="top" width="50%">
 
--  🖥️ I’m used to make model about "Optimization" and "Artificial Intelligence" with data  
+- 🖥️ I’m used to make model about "Optimization" and "Artificial Intelligence" with data  
   
 
 - 🔏 I’m currently working on [Private Repository](https://github.com/seoharam/LscnsProject)  
@@ -26,7 +26,7 @@ I'm graduate student of ⚓ Korea Maritime-Ocean University in 🇰🇷.
 - 📚 I want to be a data scientist in the marine field
 
 
-- 🤝 I've been collaborate with samsung heavy industry / LS cable & system
+- 🤝🏻 I've been collaborate with samsung heavy industry / LS cable & system
 
 
 </td><td valign="top" width="50%">
