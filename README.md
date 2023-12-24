@@ -16,7 +16,7 @@ I'm graduate student of ⚓ [Korea Maritime-Ocean University](https://www.kmou.a
 ## Introduction  
 <tr><td valign="top" width="50%">
 
-- 🖥️ I’m used to make model about "Optimization" and "Artificial Intelligence" with data  
+- 🖥️ I’m used to make model about 'Optimization' and 'Artificial Intelligence' with data  
   
 
 - 🔏 I’m currently working on [Private Repository](https://github.com/seoharam/LscnsProject) So I'm sorry I couldn't show you
@@ -58,13 +58,10 @@ I'm graduate student of ⚓ [Korea Maritime-Ocean University](https://www.kmou.a
 
 
 ## Github Stats  
-<tr><td valign="top" width="50%">
+<tr><td valign="left" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=seoharam&show_icons=true&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=사용자명)&hide=stars,contribs&count_private=true&show_icons=true&&theme=dark" align="left" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoharam&hide_border=true&count_private=true&layout=compact&&theme=dark" align="left" />
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=seoharam&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true" alt="SEOHARAM's github stats" /></a>
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoharam&layout=compact&count_private=true&theme=dark&hide_border=true"/></a>
 
 </td></tr>
 
