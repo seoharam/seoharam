@@ -20,7 +20,7 @@ I'm graduate student of ⚓ [Korea Maritime-Ocean University](https://www.kmou.a
 - 🖥️ I’m used to make model about "Optimization" and "Artificial Intelligence" with data  
   
 
-- 🔏 I’m currently working on [Private Repository](https://github.com/seoharam/LscnsProject)  
+- 🔏 I’m currently working on [Private Repository](https://github.com/seoharam/LscnsProject) So I'm sorry I couldn't show you
   
 
 - 📊 I want to be a data scientist in the marine field
