@@ -1,4 +1,4 @@
-# <div align="center">Hello 👋🏻, I'm Haram Seo</div>  
+# <div align="left">Hello 👋🏻, I'm Haram Seo</div>  
   
 
 <a href="https://github.com/seoharam" target="_blank">
