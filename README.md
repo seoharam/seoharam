@@ -1,10 +1,7 @@
 # <div align="left">Hello 👋🏻, I'm Haram Seo</div>  
   
-
-<a href="https://github.com/seoharam" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-
+<a href="https://github.com/seoharam"><img src="https://img.shields.io/badge/github-%2324292e?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCnhYhTtz-_H83UwtQlzHYaA"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
   
 ### Nice to see you here !  
 I'm graduate student of ⚓ [Korea Maritime-Ocean University](https://www.kmou.ac.kr/kmou/main.do) in 🇰🇷.  
@@ -60,8 +57,8 @@ I'm graduate student of ⚓ [Korea Maritime-Ocean University](https://www.kmou.a
 ## Github Stats  
 <tr><td valign="left" width="50%">
 
-<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=seoharam&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true" alt="SEOHARAM's github stats" /></a>
-<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoharam&layout=compact&count_private=true&theme=dark&hide_border=true"/></a>
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=seoharam&show_icons=true&count_private=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="SEOHARAM's github stats" /></a>
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoharam&layout=compact&count_private=true&theme=graywhite&hide_border=true"/></a>
 
 </td></tr>
 
