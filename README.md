@@ -4,7 +4,7 @@
 <a href="https://www.youtube.com/channel/UCnhYhTtz-_H83UwtQlzHYaA"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
   
 ### Nice to see you here !  
-I'm graduate student of ⚓ [Korea Maritime-Ocean University](https://www.kmou.ac.kr/kmou/main.do) in 🇰🇷.  
+I'm **`graduate student`** of ⚓ [Korea Maritime-Ocean University](https://www.kmou.ac.kr/kmou/main.do) in 🇰🇷.  
 
   
 <br/>  
@@ -13,13 +13,13 @@ I'm graduate student of ⚓ [Korea Maritime-Ocean University](https://www.kmou.a
 ## Introduction  
 <tr><td valign="top" width="50%">
 
-- 🖥️ I’m used to make model about 'Optimization' and 'Artificial Intelligence' with data  
+- 🖥️ I’m used to make model about **`Optimization`** and **`Artificial Intelligence`** with data  
   
 
 - 🔏 I’m currently working on [Private Repository](https://github.com/seoharam/LscnsProject) So I'm sorry I couldn't show you
   
 
-- 📊 I want to be a data scientist in the 🚢 marine field
+- 📊 I want to be a **`data scientist`** in the 🚢 **`marine field`**
 
 
 - 🤝🏻 I've collaborated with [Samsung Heavy Industry](http://www.samsungshi.com/) / [LS Cable & System](https://www.lscns.co.kr/) as graduate student
