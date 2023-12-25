@@ -19,10 +19,10 @@ I'm graduate student of ⚓ [Korea Maritime-Ocean University](https://www.kmou.a
 - 🔏 I’m currently working on [Private Repository](https://github.com/seoharam/LscnsProject) So I'm sorry I couldn't show you
   
 
-- 📊 I want to be a data scientist in the marine field
+- 📊 I want to be a data scientist in the 🚢 marine field
 
 
-- 🤝🏻 I've collaborated with [Samsung Heavy Industry](http://www.samsungshi.com/) / [LS Cable & System](https://www.lscns.co.kr/)
+- 🤝🏻 I've collaborated with [Samsung Heavy Industry](http://www.samsungshi.com/) / [LS Cable & System](https://www.lscns.co.kr/) as graduate student
 
 
 - 📷 I love photography and video shooting
@@ -38,7 +38,7 @@ I'm graduate student of ⚓ [Korea Maritime-Ocean University](https://www.kmou.a
 
 
 ## Languages and Tools  
-<div align="center">  
+<div align="left">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
