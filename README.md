@@ -1,4 +1,4 @@
-# <div align="left">Hello 👋🏻, There !</div>  
+# <div align="left">Hello 👋🏻, there !</div>  
   
 <a href="https://github.com/seoharam"><img src="https://img.shields.io/badge/github-%2324292e?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCnhYhTtz-_H83UwtQlzHYaA"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
