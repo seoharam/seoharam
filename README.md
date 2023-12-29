@@ -4,7 +4,7 @@
 <a href="https://www.youtube.com/channel/UCnhYhTtz-_H83UwtQlzHYaA"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
   
 ### Nice to see you here !  
-I'm **`graduate student`** of ⚓ [Korea Maritime-Ocean University](https://www.kmou.ac.kr/kmou/main.do) in 🇰🇷.  
+I'm **`graduate student`** of ⚓ [Korea Maritime-Ocean University](https://www.kmou.ac.kr/kmou/main.do) in 🇰🇷
 
   
 <br/>  
