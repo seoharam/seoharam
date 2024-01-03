@@ -16,10 +16,10 @@ I'm **`graduate student`** of ⚓ [Korea Maritime-Ocean University](https://www.
 
 - 🖥️ I’m used to make model about **`Optimization`** and **`Artificial Intelligence`** with data </br>
     </br>
-   ㄴ **1). Data Analysis :** `Electronic Navigational Chart`  /  `Vessel Traffic Service` / `Automatic Identification System` </br>
-   ㄴ **2). Optimization :** `Linear programming`  /  `Genetic Algorithm`  /  `A* algorithm` </br>
-   ㄴ **3). Control :** `Auto Pilot Ship` </br>
-   ㄴ **4). AI :** `Multi Layer Perceptron` </br>
+   ㄴ **📃 Data Analysis :** `Electronic Navigational Chart`  /  `Vessel Traffic Service` / `Automatic Identification System` </br>
+   ㄴ **✏️ Optimization :** `Linear programming`  /  `Genetic Algorithm`  /  `A* algorithm` </br>
+   ㄴ **🛠️ Control :** `Auto Pilot Ship` </br>
+   ㄴ **🧠 AI :** `Multi Layer Perceptron` </br>
   
 
 - 🔏 I’m currently working on [Private Repository](https://github.com/seoharam/LscnsProject) So I'm sorry I couldn't show you
