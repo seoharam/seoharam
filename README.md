@@ -19,6 +19,7 @@ I'm **`graduate student`** of ⚓ [Korea Maritime-Ocean University](https://www.
    ㄴ **Data Analysis :** `Electronic Navigational Chart`  /  `Vessel Traffic Service` / `Automatic Identification System` </br>
    ㄴ **Optimization :** `Linear programming`  /  `Genetic Algorithm`  /  `A* algorithm` </br>
    ㄴ **AI :** `MLP` </br>
+   ㄴ **Control :** `Auto Pilot Ship` </br>
   
 
 - 🔏 I’m currently working on [Private Repository](https://github.com/seoharam/LscnsProject) So I'm sorry I couldn't show you
