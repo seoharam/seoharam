@@ -14,10 +14,11 @@ I'm **`graduate student`** of ⚓ [Korea Maritime-Ocean University](https://www.
 ## Introduction  
 <tr><td valign="top" width="50%">
 
-- 🖥️ I’m used to make model about **`Optimization`** and **`Artificial Intelligence`** with data
-   ㄴ <Data Analysis> Electronic Navigational Chart / Vessel Traffic Service
-   ㄴ <Optimization> Cplex / Genetic Algorithm / A* algorithm
-   ㄴ <AI> MLP
+- 🖥️ I’m used to make model about **`Optimization`** and **`Artificial Intelligence`** with data </br>
+    </br>
+   ㄴ **Data Analysis :** `Electronic Navigational Chart`  /  `Vessel Traffic Service` </br>
+   ㄴ **Optimization :** `Linear programming`  /  `Genetic Algorithm`  /  `A* algorithm` </br>
+   ㄴ **AI :** `MLP` </br>
   
 
 - 🔏 I’m currently working on [Private Repository](https://github.com/seoharam/LscnsProject) So I'm sorry I couldn't show you
