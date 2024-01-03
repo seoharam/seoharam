@@ -16,7 +16,7 @@ I'm **`graduate student`** of ⚓ [Korea Maritime-Ocean University](https://www.
 
 - 🖥️ I’m used to make model about **`Optimization`** and **`Artificial Intelligence`** with data </br>
     </br>
-   ㄴ **Data Analysis :** `Electronic Navigational Chart`  /  `Vessel Traffic Service` </br>
+   ㄴ **Data Analysis :** `Electronic Navigational Chart`  /  `Vessel Traffic Service` / `Automatic Identification System` </br>
    ㄴ **Optimization :** `Linear programming`  /  `Genetic Algorithm`  /  `A* algorithm` </br>
    ㄴ **AI :** `MLP` </br>
   
