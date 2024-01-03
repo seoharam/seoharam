@@ -18,7 +18,7 @@ I'm **`graduate student`** of ⚓ [Korea Maritime-Ocean University](https://www.
     </br>
    ㄴ **Data Analysis :** `Electronic Navigational Chart`  /  `Vessel Traffic Service` / `Automatic Identification System` </br>
    ㄴ **Optimization :** `Linear programming`  /  `Genetic Algorithm`  /  `A* algorithm` </br>
-   ㄴ **AI :** `MLP` </br>
+   ㄴ **AI :** `Multi Layer Perceptron` </br>
    ㄴ **Control :** `Auto Pilot Ship` </br>
   
 
