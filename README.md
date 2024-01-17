@@ -21,7 +21,7 @@ I'm `graduate student` of ⚓ [Korea Maritime-Ocean University](https://www.kmou
    ㄴ **🛠️ Control :** `Auto Pilot System of Ship` </br>
   
 
-- 🔏 I’m currently working on [Private Repository](https://github.com/seoharam/LscnsProject) So I'm sorry I couldn't show you
+- 🔏 I’m currently working on [Private Repository](https://github.com/seoharam/ElectronicNavigationalChart) So I'm sorry I couldn't show you
   
 
 - 📊 I want to be a `data scientist` in the 🚢 `marine field`
