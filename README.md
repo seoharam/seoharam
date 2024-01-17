@@ -30,7 +30,7 @@ I'm `graduate student` of ⚓ [Korea Maritime-Ocean University](https://www.kmou
 - 🤝🏻 I've collaborated with [Samsung Heavy Industry](http://www.samsungshi.com/) / [LS Cable & System](https://www.lscns.co.kr/) as graduate student
 
 
-- 📷 I love photography and video shooting
+- 📷 I love photography and videography
 
 
 </td><td valign="top" width="50%">
