@@ -21,7 +21,7 @@ I'm `graduate student` of ⚓ [Korea Maritime-Ocean University](https://www.kmou
    ㄴ **📃 Data Analysis :** `Electronic Navigational Chart`  /  `Vessel Traffic Service` / `Automatic Identification System` </br>
    ㄴ **✏️ Optimization :** `Linear programming`  /  `Genetic Algorithm`  /  `A* Algorithm` </br>
    ㄴ **🛠️ Control :** `Auto Pilot System of Ship` </br>
-   ㄴ **🛠️ Visualization :** `PyQt` / 'JavaScript' </br>
+   ㄴ **🛠️ Visualization :** `PyQt` / `JavaScript` </br>
   
 
 - 🔏 I’m currently working on [Private Repository](https://github.com/seoharam/ElectronicNavigationalChart) So I'm sorry I couldn't show you
