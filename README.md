@@ -30,7 +30,7 @@ I'm `graduate student` of ⚓ [Korea Maritime-Ocean University](https://www.kmou
 - 📊 I want to be a `data scientist` in the 🚢 `marine field`
 
 
-- 🤝🏻 I've collaborated with [Samsung Heavy Industry](http://www.samsungshi.com/) / [LS Cable & System](https://www.lscns.co.kr/) as graduate student
+- 🤝🏻 I've collaborated with Shipbuilding Corporation / Subsea Corporation as graduate student
 
 
 - 📷 I love photography and videography
