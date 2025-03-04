@@ -67,8 +67,6 @@ I'm `graduate student` of ⚓ [Korea Maritime-Ocean University](https://www.kmou
 
 <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=seoharam&show_icons=true&count_private=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="SEOHARAM's github stats" /></a>
 
-<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoharam&layout=compact&count_private=true&theme=graywhite&hide_border=true"/></a>
-
 </td></tr>
 
 <br/>  
