@@ -74,10 +74,3 @@ I'm `graduate student` of ⚓ [Korea Maritime-Ocean University](https://www.kmou
   
 
 <br/>  
-
-  
-
-<br/>  
-
-
-<br />
