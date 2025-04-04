@@ -20,6 +20,7 @@ I'm `graduate student` of ⚓ [Korea Maritime-Ocean University](https://www.kmou
     </br>
    ㄴ **📃 Data Analysis :** `Electronic Navigational Chart`  /  `Vessel Traffic Service` / `Automatic Identification System` </br>
    ㄴ **✏️ Optimization :** `Linear programming`  /  `Genetic Algorithm`  /  `A* Algorithm` </br>
+   ㄴ **✏️ Machine Learning :** `Deep Learning`  /  `Reinforcement Learning` </br>
    ㄴ **🛠️ Control :** `Auto Pilot System of Ship` </br>
    ㄴ **🛠️ Visualization :** `PyQt` / `JavaScript` </br>
   
