@@ -22,7 +22,7 @@ I'm `graduate student` of ⚓ [Korea Maritime-Ocean University](https://www.kmou
    ㄴ **✏️ Optimization :** `MILP` / `CP` / `Genetic Algorithm`  /  `A* Algorithm` </br>
    ㄴ **✏️ Machine Learning :** `LLM` /  `Deep Learning`  /  `Reinforcement Learning` </br>
    ㄴ **🛠️ Control :** `Auto Pilot System of Ship` </br>
-   ㄴ **🛠️ Visualization :** `PyQt` </br>
+   ㄴ **🛠️ Visualization :** `Flask` / `PyQt` </br>
   
 
 - 🔏 I’m currently working on [Private Repository](https://github.com/seoharam/ElectronicNavigationalChart) So I'm sorry I couldn't share it with you
